@@ -1,0 +1,9 @@
+C:\Users\devin\source\repos\BluetoothControlApp\BluetoothControlApp.Models\bin\Debug\netstandard2.0\BluetoothControlApp.Models.deps.json
+C:\Users\devin\source\repos\BluetoothControlApp\BluetoothControlApp.Models\bin\Debug\netstandard2.0\BluetoothControlApp.Models.dll
+C:\Users\devin\source\repos\BluetoothControlApp\BluetoothControlApp.Models\bin\Debug\netstandard2.0\BluetoothControlApp.Models.pdb
+C:\Users\devin\source\repos\BluetoothControlApp\BluetoothControlApp.Models\obj\Debug\netstandard2.0\BluetoothControlApp.Models.AssemblyInfoInputs.cache
+C:\Users\devin\source\repos\BluetoothControlApp\BluetoothControlApp.Models\obj\Debug\netstandard2.0\BluetoothControlApp.Models.AssemblyInfo.cs
+C:\Users\devin\source\repos\BluetoothControlApp\BluetoothControlApp.Models\obj\Debug\netstandard2.0\BluetoothControlApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\devin\source\repos\BluetoothControlApp\BluetoothControlApp.Models\obj\Debug\netstandard2.0\BluetoothControlApp.Models.dll
+C:\Users\devin\source\repos\BluetoothControlApp\BluetoothControlApp.Models\obj\Debug\netstandard2.0\BluetoothControlApp.Models.pdb
+C:\Users\devin\source\repos\BluetoothControlApp\BluetoothControlApp.Models\obj\Debug\netstandard2.0\BluetoothControlApp.Models.csprojAssemblyReference.cache

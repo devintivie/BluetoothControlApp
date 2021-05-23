@@ -1,0 +1,86 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "BluetoothControlApp.Models/1.0.0": {
+        "dependencies": {
+          "MvvmCross.Plugin.BLE": "2.1.2",
+          "NETStandard.Library": "2.0.3",
+          "Plugin.BLE": "2.1.2"
+        },
+        "runtime": {
+          "BluetoothControlApp.Models.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "MvvmCross.Plugin.BLE/2.1.2": {
+        "dependencies": {
+          "Plugin.BLE": "2.1.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/MvvmCross.Plugins.BLE.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "Plugin.BLE/2.1.2": {
+        "runtime": {
+          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/netstandard2.0/Plugin.BLE.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BluetoothControlApp.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "MvvmCross.Plugin.BLE/2.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4nZ10BA4M5IYTRqV1X3d5L0JR/vVOiGII7F5GzOFO5bTsteUqJ7/HloCZCbfCC2z4d0Tl6s3oQSGJLx3I+pMLg==",
+      "path": "mvvmcross.plugin.ble/2.1.2",
+      "hashPath": "mvvmcross.plugin.ble.2.1.2.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "Plugin.BLE/2.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TAFn7r6drfhmPAs+Zj+aaiWE1LdI9VOIJ1ryQaOpvHm9gNzN0C0yU8k0Dirsi0k6sNv3K642q0Scyc2V1nMlSg==",
+      "path": "plugin.ble/2.1.2",
+      "hashPath": "plugin.ble.2.1.2.nupkg.sha512"
+    }
+  }
+}

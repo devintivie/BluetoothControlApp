@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z4AzcJs/AwPGPY/fc3JRrcysQ/c1dBQ686+ofunL5RIrb6GwLOAMemcP8VLfHeJ/IBht73r/6UkeBVono4CTZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\devin\\source\\repos\\BluetoothControlApp\\BluetoothControlApp.Models\\BluetoothControlApp.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\devin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\devin\\.nuget\\packages\\mvvmcross.plugin.ble\\2.1.2\\mvvmcross.plugin.ble.2.1.2.nupkg.sha512",
+    "C:\\Users\\devin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\devin\\.nuget\\packages\\plugin.ble\\2.1.2\\plugin.ble.2.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

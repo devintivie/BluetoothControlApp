@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<views:MvxContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:views="clr-namespace:MvvmCross.Forms.Views;assembly=MvvmCross.Forms"
+             xmlns:vms="clr-namespace:BluetoothControlApp.Core.ViewModels;assembly=BluetoothControlApp.Core"
+             x:TypeArguments="vms:TestViewModel"
+             x:Class="BluetoothControlApp.Views.TestPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Button Text="Start Scan" Command="{Binding StartScanCommand}"/>
+            <Button Text="Stop Scan" Command="{Binding StopScanCommand}"/>
+            <Button Text="Connect" Command="{Binding ConnectCommand}"/>
+            
+            <Button Text="Send Text 1" Command="{Binding SendHelloCommand}"/>
+            <Button Text="Send Text 2" Command="{Binding SendStuffCommand}"/>
+            <Button Text="Disconnect" Command="{Binding DisconnectCommand}"/>
+        </StackLayout>
+    </ContentPage.Content>
+</views:MvxContentPage>

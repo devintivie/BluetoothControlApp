@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bp3fbv/TD7RIJ3PiPlwpzK12iLumuJ/bq3Dm0y1XTshZ49P3HuI3GLa/kSH3o0MtzaSpqSLnA0LyHA+JfQCMYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\devin\\source\\repos\\BluetoothControlApp\\BluetoothControlApp.Core\\BluetoothControlApp.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\devin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\devin\\.nuget\\packages\\mvvmcross\\7.1.2\\mvvmcross.7.1.2.nupkg.sha512",
+    "C:\\Users\\devin\\.nuget\\packages\\mvvmcross.forms\\7.1.2\\mvvmcross.forms.7.1.2.nupkg.sha512",
+    "C:\\Users\\devin\\.nuget\\packages\\mvvmcross.plugin.ble\\2.1.2\\mvvmcross.plugin.ble.2.1.2.nupkg.sha512",
+    "C:\\Users\\devin\\.nuget\\packages\\mvvmcross.plugin.messenger\\7.1.2\\mvvmcross.plugin.messenger.7.1.2.nupkg.sha512",
+    "C:\\Users\\devin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\devin\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\devin\\.nuget\\packages\\plugin.ble\\2.1.2\\plugin.ble.2.1.2.nupkg.sha512",
+    "C:\\Users\\devin\\.nuget\\packages\\xamarin.forms\\4.6.0.847\\xamarin.forms.4.6.0.847.nupkg.sha512"
+  ],
+  "logs": []
+}

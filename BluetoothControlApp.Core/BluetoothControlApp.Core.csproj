@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MvvmCross.Forms" Version="7.1.2" />
+    <PackageReference Include="MvvmCross.Plugin.BLE" Version="2.1.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\SharedProjects\Standard\BaseClasses\BaseClasses.csproj" />
+    <ProjectReference Include="..\BluetoothControlApp.StateManagers\BluetoothControlApp.StateManagers.csproj" />
+  </ItemGroup>
+
+</Project>

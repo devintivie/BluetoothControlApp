@@ -1,0 +1,12 @@
+C:\Users\devin\source\repos\BluetoothControlApp\BluetoothControlApp.StateManagers\bin\Debug\netstandard2.0\BluetoothControlApp.StateManagers.deps.json
+C:\Users\devin\source\repos\BluetoothControlApp\BluetoothControlApp.StateManagers\bin\Debug\netstandard2.0\BluetoothControlApp.StateManagers.dll
+C:\Users\devin\source\repos\BluetoothControlApp\BluetoothControlApp.StateManagers\bin\Debug\netstandard2.0\BluetoothControlApp.StateManagers.pdb
+C:\Users\devin\source\repos\BluetoothControlApp\BluetoothControlApp.StateManagers\bin\Debug\netstandard2.0\BaseClasses.dll
+C:\Users\devin\source\repos\BluetoothControlApp\BluetoothControlApp.StateManagers\bin\Debug\netstandard2.0\BaseClasses.pdb
+C:\Users\devin\source\repos\BluetoothControlApp\BluetoothControlApp.StateManagers\obj\Debug\netstandard2.0\BluetoothControlApp.StateManagers.csprojAssemblyReference.cache
+C:\Users\devin\source\repos\BluetoothControlApp\BluetoothControlApp.StateManagers\obj\Debug\netstandard2.0\BluetoothControlApp.StateManagers.AssemblyInfoInputs.cache
+C:\Users\devin\source\repos\BluetoothControlApp\BluetoothControlApp.StateManagers\obj\Debug\netstandard2.0\BluetoothControlApp.StateManagers.AssemblyInfo.cs
+C:\Users\devin\source\repos\BluetoothControlApp\BluetoothControlApp.StateManagers\obj\Debug\netstandard2.0\BluetoothControlApp.StateManagers.csproj.CoreCompileInputs.cache
+C:\Users\devin\source\repos\BluetoothControlApp\BluetoothControlApp.StateManagers\obj\Debug\netstandard2.0\BluetoothControlApp.StateManagers.csproj.CopyComplete
+C:\Users\devin\source\repos\BluetoothControlApp\BluetoothControlApp.StateManagers\obj\Debug\netstandard2.0\BluetoothControlApp.StateManagers.dll
+C:\Users\devin\source\repos\BluetoothControlApp\BluetoothControlApp.StateManagers\obj\Debug\netstandard2.0\BluetoothControlApp.StateManagers.pdb

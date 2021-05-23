@@ -1,0 +1,206 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "BluetoothControlApp.Core/1.0.0": {
+        "dependencies": {
+          "BaseClasses": "1.0.0",
+          "BluetoothControlApp.StateManagers": "1.0.0",
+          "MvvmCross.Forms": "7.1.2",
+          "MvvmCross.Plugin.BLE": "2.1.2",
+          "NETStandard.Library": "2.0.3"
+        },
+        "runtime": {
+          "BluetoothControlApp.Core.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "MvvmCross/7.1.2": {
+        "runtime": {
+          "lib/netstandard2.0/MvvmCross.dll": {
+            "assemblyVersion": "7.1.2.0",
+            "fileVersion": "7.1.2.0"
+          }
+        }
+      },
+      "MvvmCross.Forms/7.1.2": {
+        "dependencies": {
+          "MvvmCross": "7.1.2",
+          "Xamarin.Forms": "4.6.0.847"
+        },
+        "runtime": {
+          "lib/netstandard2.0/MvvmCross.Forms.dll": {
+            "assemblyVersion": "7.1.2.0",
+            "fileVersion": "7.1.2.0"
+          }
+        }
+      },
+      "MvvmCross.Plugin.BLE/2.1.2": {
+        "dependencies": {
+          "Plugin.BLE": "2.1.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/MvvmCross.Plugins.BLE.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MvvmCross.Plugin.Messenger/7.1.2": {
+        "dependencies": {
+          "MvvmCross": "7.1.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/MvvmCross.Plugin.Messenger.dll": {
+            "assemblyVersion": "7.1.2.0",
+            "fileVersion": "7.1.2.0"
+          }
+        }
+      },
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "Plugin.BLE/2.1.2": {
+        "runtime": {
+          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/netstandard2.0/Plugin.BLE.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Xamarin.Forms/4.6.0.847": {
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Forms.Core.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "4.6.0.487"
+          },
+          "lib/netstandard2.0/Xamarin.Forms.Platform.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "4.6.0.487"
+          },
+          "lib/netstandard2.0/Xamarin.Forms.Xaml.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "4.6.0.487"
+          }
+        }
+      },
+      "BaseClasses/1.0.0": {
+        "dependencies": {
+          "MvvmCross": "7.1.2",
+          "MvvmCross.Plugin.Messenger": "7.1.2",
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "runtime": {
+          "BaseClasses.dll": {}
+        }
+      },
+      "BluetoothControlApp.StateManagers/1.0.0": {
+        "dependencies": {
+          "BaseClasses": "1.0.0"
+        },
+        "runtime": {
+          "BluetoothControlApp.StateManagers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BluetoothControlApp.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "MvvmCross/7.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1tYkYslR8c7Dp/3itlx8+djBp+cim/ieS1Xp+d/waL0Yrl3H4HGmqxSm89yz/Ts+H9pmrS5DeKpOb+HUOzaERQ==",
+      "path": "mvvmcross/7.1.2",
+      "hashPath": "mvvmcross.7.1.2.nupkg.sha512"
+    },
+    "MvvmCross.Forms/7.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dqexp2rFIyVk4HLuo/BnQWNTrldoAZQWPIusbgP/D3Bfon0SjqDPwtcCWWb0AXQFaYL45iJeMXhRI/FdNTqm/Q==",
+      "path": "mvvmcross.forms/7.1.2",
+      "hashPath": "mvvmcross.forms.7.1.2.nupkg.sha512"
+    },
+    "MvvmCross.Plugin.BLE/2.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4nZ10BA4M5IYTRqV1X3d5L0JR/vVOiGII7F5GzOFO5bTsteUqJ7/HloCZCbfCC2z4d0Tl6s3oQSGJLx3I+pMLg==",
+      "path": "mvvmcross.plugin.ble/2.1.2",
+      "hashPath": "mvvmcross.plugin.ble.2.1.2.nupkg.sha512"
+    },
+    "MvvmCross.Plugin.Messenger/7.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Fc1RUrSVk2FbEUNod/001PJ29jCOtIVppHx34ycX8zHB40XjpdX5dGYTGitcxmse5rz6SUL1pVf+7+fslBcbrg==",
+      "path": "mvvmcross.plugin.messenger/7.1.2",
+      "hashPath": "mvvmcross.plugin.messenger.7.1.2.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "Plugin.BLE/2.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TAFn7r6drfhmPAs+Zj+aaiWE1LdI9VOIJ1ryQaOpvHm9gNzN0C0yU8k0Dirsi0k6sNv3K642q0Scyc2V1nMlSg==",
+      "path": "plugin.ble/2.1.2",
+      "hashPath": "plugin.ble.2.1.2.nupkg.sha512"
+    },
+    "Xamarin.Forms/4.6.0.847": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xUUgs1/xDdS9I/oN2UkdRwd/YToqg0qhwIK8yvyJJ2Xbhsc1ssV4/DUICdjuwCttzeiAcrhILqD+0BQhifUfxw==",
+      "path": "xamarin.forms/4.6.0.847",
+      "hashPath": "xamarin.forms.4.6.0.847.nupkg.sha512"
+    },
+    "BaseClasses/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BluetoothControlApp.StateManagers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
