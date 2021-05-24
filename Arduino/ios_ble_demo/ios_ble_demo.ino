@@ -67,7 +67,7 @@ void setup()
     // Register device info service, that contains the device's UUID, manufacturer and name.
     service = server->createService(DEVINFO_UUID);
     BLECharacteristic *characteristic = service->createCharacteristic(DEVINFO_MANUFACTURER_UUID, BLECharacteristic::PROPERTY_READ);
-    characteristic->setValue( [);
+    characteristic->setValue(DEVICE_MANUFACTURER);
     characteristic = service->createCharacteristic(DEVINFO_NAME_UUID, BLECharacteristic::PROPERTY_READ);
     characteristic->setValue(DEVICE_NAME);
     characteristic = service->createCharacteristic(DEVINFO_SERIAL_UUID, BLECharacteristic::PROPERTY_READ);
